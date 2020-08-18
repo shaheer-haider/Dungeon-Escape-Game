@@ -1,0 +1,638 @@
+fileFormatVersion: 2
+guid: e91b061b9a335ca489b9d254d5bf2f92
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9212091298790157564
+    second: Sword_One_Particle_0
+  - first:
+      213: -4001673295266650436
+    second: Sword_One_Particle_1
+  - first:
+      213: -4473855435514280300
+    second: Sword_One_Particle_2
+  - first:
+      213: 6759167555830381974
+    second: Sword_One_Particle_3
+  - first:
+      213: 8779745235958580718
+    second: Sword_One_Particle_4
+  - first:
+      213: 1660357054482230382
+    second: Sword_One_Particle_5
+  - first:
+      213: -3119619176466669445
+    second: Sword_One_Particle_6
+  - first:
+      213: -5689420039273143844
+    second: Sword_One_Particle_7
+  - first:
+      213: 9200431452540233906
+    second: Sword_One_Particle_8
+  - first:
+      213: 8783591070985557184
+    second: Sword_One_Particle_9
+  - first:
+      213: 7572709827829542437
+    second: Sword_One_Particle_10
+  - first:
+      213: -230672273740149500
+    second: Sword_One_Particle_11
+  - first:
+      213: 2093696662401799756
+    second: Sword_One_Particle_12
+  - first:
+      213: -378698808902976088
+    second: Sword_One_Particle_13
+  - first:
+      213: -5061803365939530033
+    second: Sword_One_Particle_14
+  - first:
+      213: 6204241018626898399
+    second: Sword_One_Particle_15
+  - first:
+      213: 4803639787809136381
+    second: Sword_One_Particle_16
+  - first:
+      213: 3106411579632503967
+    second: Sword_One_Particle_17
+  - first:
+      213: -3502506103470687289
+    second: Sword_One_Particle_18
+  - first:
+      213: 6381625899513544048
+    second: Sword_One_Particle_19
+  - first:
+      213: -1775943772004074264
+    second: Sword_One_Particle_20
+  - first:
+      213: 7612779913093884411
+    second: Sword_One_Particle_21
+  - first:
+      213: -3057745591131046862
+    second: Sword_One_Particle_22
+  - first:
+      213: 6072132517639741052
+    second: Sword_One_Particle_23
+  - first:
+      213: -2461535470507536700
+    second: Sword_One_Particle_24
+  - first:
+      213: 8667683508877711668
+    second: Sword_One_Particle_25
+  - first:
+      213: -828608667543065274
+    second: Sword_One_Particle_26
+  - first:
+      213: 8125976748549514675
+    second: Sword_One_Particle_27
+  - first:
+      213: 8052425703310051290
+    second: Sword_One_Particle_28
+  - first:
+      213: 2943426621012558854
+    second: Sword_One_Particle_29
+  - first:
+      213: 657654223867413079
+    second: Sword_One_Particle_30
+  - first:
+      213: 3651411634128698563
+    second: Sword_One_Particle_31
+  - first:
+      213: -4863359832303362571
+    second: Sword_One_Particle_32
+  - first:
+      213: 5585612210892587290
+    second: Sword_One_Particle_33
+  - first:
+      213: 6520786325873449737
+    second: Sword_One_Particle_34
+  - first:
+      213: -3151565535666392632
+    second: Sword_One_Particle_35
+  - first:
+      213: -7527329145204343849
+    second: Sword_One_Particle_36
+  - first:
+      213: -3976081326943060441
+    second: Sword_One_Particle_37
+  - first:
+      213: -5589936037685109516
+    second: Sword_One_Particle_38
+  - first:
+      213: -1187416347945252559
+    second: Sword_One_Particle_39
+  - first:
+      213: -8858172338838858062
+    second: Sword_One_Particle_40
+  - first:
+      213: -1074934009613937168
+    second: Sword_One_Particle_41
+  - first:
+      213: -6709822766809885166
+    second: Sword_One_Particle_42
+  - first:
+      213: 8954980826066892272
+    second: Sword_One_Particle_43
+  - first:
+      213: -4542448627728326726
+    second: Sword_One_Particle_44
+  - first:
+      213: 7623474678702823622
+    second: Sword_One_Particle_45
+  - first:
+      213: 1623674482350107188
+    second: Sword_One_Particle_46
+  - first:
+      213: 6594293151696279369
+    second: Sword_One_Particle_47
+  - first:
+      213: 8543348735327906198
+    second: Sword_One_Particle_48
+  - first:
+      213: -3720580318678836204
+    second: Sword_One_Particle_49
+  - first:
+      213: 8615993548842694781
+    second: Sword_One_Particle_50
+  - first:
+      213: -708360054712844772
+    second: Sword_One_Particle_51
+  - first:
+      213: 5196683860837674728
+    second: Sword_One_Particle_52
+  - first:
+      213: -3634603311410195041
+    second: Sword_One_Particle_53
+  - first:
+      213: -95591455029426262
+    second: Sword_One_Particle_54
+  - first:
+      213: -6135723942089389803
+    second: Sword_One_Particle_55
+  - first:
+      213: 8374695235729867359
+    second: Sword_One_Particle_56
+  - first:
+      213: 7197548493126281263
+    second: Sword_One_Particle_57
+  - first:
+      213: -1402172079882304057
+    second: Sword_One_Particle_58
+  - first:
+      213: -336421893059119701
+    second: Sword_One_Particle_59
+  - first:
+      213: 867778262258271485
+    second: Sword_One_Particle_60
+  - first:
+      213: 4488355839191948270
+    second: Sword_One_Particle_61
+  - first:
+      213: -7229182543569066325
+    second: Sword_One_Particle_62
+  - first:
+      213: -280859639976972017
+    second: Sword_One_Particle_63
+  - first:
+      213: -9099919477288969150
+    second: Sword_One_Particle_64
+  - first:
+      213: 7676053467984478998
+    second: Sword_One_Particle_65
+  - first:
+      213: -4530493793838350974
+    second: Sword_One_Particle_66
+  - first:
+      213: 2027086050277872596
+    second: Sword_One_Particle_67
+  - first:
+      213: 5587862308235552520
+    second: Sword_One_Particle_68
+  - first:
+      213: -624381882924790429
+    second: Sword_One_Particle_69
+  - first:
+      213: -9130022819262855364
+    second: Sword_One_Particle_70
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sword_One_Particle_0
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcaade7a3ce7df70800000000000000
+      internalID: 9212091298790157564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_One_Particle_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6e678f6533778c0800000000000000
+      internalID: -4001673295266650436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_One_Particle_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49688b55f2ca9e1c0800000000000000
+      internalID: -4473855435514280300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_One_Particle_3
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d7d9694136dcd50800000000000000
+      internalID: 6759167555830381974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_One_Particle_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee54db766cbe7d970800000000000000
+      internalID: 8779745235958580718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_One_Particle_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c2ab0b1f5ca0710800000000000000
+      internalID: 1660357054482230382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_One_Particle_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70253033e2e4b4d0800000000000000
+      internalID: -3119619176466669445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_One_Particle_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1a22d3e9e1b01b0800000000000000
+      internalID: -5689420039273143844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_One_Particle_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8edfcf8af7eaf70800000000000000
+      internalID: 9200431452540233906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_One_Particle_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c41366aa8595e970800000000000000
+      internalID: 8783591070985557184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_One_Particle_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ea3ea677ba71960800000000000000
+      internalID: 7572709827829542437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_One_Particle_11
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dcf280acc7cccf0800000000000000
+      internalID: -230672273740149500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_One_Particle_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4651e5850e4e0d10800000000000000
+      internalID: 2093696662401799756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 20e632b0cbf3ed14694a2ab887e68b4c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
