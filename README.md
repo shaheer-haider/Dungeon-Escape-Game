@@ -1,2 +1,2 @@
 # Dungeon-Escape-Game
- Game assets were provided by a instructor on udemy and this is copy of that game totally created by me.
+ A 2D game where 2D parallax is used with unity's 2D engine
